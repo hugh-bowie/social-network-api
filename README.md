@@ -18,9 +18,10 @@
 
 An API for a social network web app where users can share their thoughts, react to friends’ thoughts, and create a friend list.
 
-## 🎬 Video in action
+## 🎬 Start the App then demo Users Routes and Thoughts Routes
 
-![social-network-api](./assets/snapi.gif)
+![social-network-api](./assets/users-2.gif)
+![social-network-api](./assets/thoughts.gif)
 
 ## 🃏 User Story
 
